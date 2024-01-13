@@ -1,0 +1,10 @@
+node_modules
+.eslintignore
+.eslintrc
+.prettierignore
+.prettierrc
+dts-bundle-generator.config.ts
+tsconfig.json
+vite.config.ts
+src/vite-env.d.ts
+test
