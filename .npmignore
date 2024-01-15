@@ -8,3 +8,4 @@ tsconfig.json
 vite.config.ts
 src/vite-env.d.ts
 test
+.env

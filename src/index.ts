@@ -1,1 +1,2 @@
-export { sum } from "./sum";
+export { create } from "./session";
+export { Method, Platform } from "./types";
